@@ -11,8 +11,8 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
 - 発表者：ちんさん
 - 9:30-10:15
-- 発表用資料１：[画像認識の基礎 2-4_scikit-image-1.ipynb]()
-- 発表用資料２：[猫の顔画像認識にチャレンジ 2-4_scikit-image-2_Cats.ipynb]()
+- 発表用資料１：[画像認識の基礎 2-4_scikit-image-1.ipynb](https://github.com/PyDataOkinawa/meetup010/blob/master/2-4_scikit-image-1.ipynb)
+- 発表用資料２：[猫の顔画像認識にチャレンジ 2-4_scikit-image-2_Cats.ipynb](https://github.com/PyDataOkinawa/meetup010/blob/master/2-4_scikit-image-2_Cats.ipynb)
 
 ## コーディングセッション
 
