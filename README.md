@@ -17,7 +17,7 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 ## コーディングセッション
 
 #### OpenCV (3.1.0) を用いた顔検出
-  - [face_detection.ipynb](https://github.com/PyDataOkinawa/meetup010/blob/master/face_detection.ipynb)
+  - [face_detection.ipynb](https://github.com/PyDataOkinawa/meetup010/blob/master/face_detection.ipynb)
   - 検出結果はこんな感じ（[元画像](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)）
 ![検出結果](https://raw.githubusercontent.com/PyDataOkinawa/meetup010/master/Solvay_conference_1927_all.jpg)
 
