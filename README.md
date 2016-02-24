@@ -23,4 +23,3 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
 #### ノートパソコンの内蔵カメラを使ってリアルタイム顔検出
   - [face_detection.py]( https://github.com/PyDataOkinawa/meetup010/blob/master/face_detection.py)
-
